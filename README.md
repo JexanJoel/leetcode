@@ -1,8 +1,6 @@
 # 📘 LeetCode Solutions (JavaScript)
 
-This repository contains my **LeetCode problem solutions written in JavaScript**.
-
-Each problem is organized in its own folder, and the **entire solution (explanation + code)** is documented inside a **single README.md** per problem.
+This repository contains my **LeetCode problem solutions written in JavaScript**. Each problem is organized in its own folder, and the **entire solution (explanation + code)** is documented inside a **single README.md** per problem.
 
 ---
 
